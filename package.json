@@ -22,9 +22,9 @@
     "coffee-script": "^1.9.3"
   },
   "keywords": [
-    "require",
-    "cache",
-    "reload"
+    "atom",
+    "log",
+    "debug"
   ],
   "readmeFilename": "README.md",
   "scripts": {
