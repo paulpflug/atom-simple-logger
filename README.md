@@ -1,4 +1,8 @@
-# atom-simple-logger
+# deprecated in favor of [debug-service](https://github.com/paulpflug/debug-service)
+
+
+## atom-simple-logger
+
 
 a simple logger for atom packages. With colors and namespaces and stuff..
 
